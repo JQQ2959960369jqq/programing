@@ -14,5 +14,10 @@ public static class caculate
 			return b;
 
 	}
+	public int cha(int a,int b)
+	{
+		return a-b;
+
+	}
 
 }
